@@ -7,7 +7,7 @@
     "test": "jshint command_handler.js"
   },
   "author": "Lewis Wilson",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "@types/node": "^13.13.39",
     "discord.js": "^12.5.1",
