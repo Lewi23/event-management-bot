@@ -8,10 +8,10 @@ const Discord = require('discord.js');
 const client = new Discord.Client();
 
 // login to Discord using app token (Local dev using a config.json file)
-client.login(token);
+//client.login(token);
 
 // Heroku login
-//client.login(process.env.BOT_TOKEN);
+client.login(process.env.BOT_TOKEN);
 
 client.once('ready', () => {
   console.log('Bot online!');
