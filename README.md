@@ -17,7 +17,7 @@ To create an event the `!create-event` command can be used which asks for the fo
 Then it will create the event adding reactions that users can use to let you know if they can make it or not. Can attened ✅, maybe ⚖️ and can't attend ❌.
 
 
-<img src=https://media.giphy.com/media/RkZBvflCuygxd9ave5/giphy.gif width="300" height="300"/>
+<img src=https://media.giphy.com/media/RkZBvflCuygxd9ave5/giphy.gif width="500" height="500"/>
 
 
 
