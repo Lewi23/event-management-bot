@@ -38,6 +38,9 @@ To work on this project locally the `config.json` file should be modifed to prov
 "token": "discord token" 
 ```
 
+**Be sure to add `config.json` to your `.gitignore` file as to not commit your secret token**.
+
+
 The project is currently being hosted on [Heroku](https://www.heroku.com/) so the `command_handler.js` file needs to be modified. The Heroku login: `client.login(process.env.BOT_TOKEN);` should be commented and the discord login: `client.login(token);` should be uncommented as shown below:
 
 ```javascript
