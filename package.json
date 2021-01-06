@@ -1,0 +1,21 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "/command_handler.js",
+  "scripts": {
+    "test": "jshint command_handler.js"
+  },
+  "author": "Lewis Wilson",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^13.13.39",
+    "discord.js": "^12.5.1",
+    "eslint": "^6.8.0",
+    "moment": "^2.29.1",
+    "wait.for-es6": "^0.1.0"
+  },
+  "devDependencies": {
+    "jshint": "^2.12.0"
+  }
+}
