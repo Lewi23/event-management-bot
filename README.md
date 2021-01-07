@@ -29,7 +29,7 @@ If you created the event reacting with 📝 allows you to edit it and reacting w
 
 
 
-## Instillation 
+## Installation 
 
 To work on this project locally the `config.json` file should be modifed to provide a login token ([obtained here](https://discord.com/login?redirect_to=%2Fdevelopers%2Fapplications)):
 
